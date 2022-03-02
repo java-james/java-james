@@ -1,4 +1,6 @@
-### Hi there 👋
+### Java James 👨‍💻
+
+New Zealand 🇳🇿 based software engineer
 
 <!--
 **java-james/java-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
